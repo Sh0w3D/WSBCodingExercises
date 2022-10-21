@@ -1,7 +1,7 @@
-/// <summary>
-/// Napisz program, który poprosi użytkownika o podanie
-/// imienia i wypisze "Witaj imię"
-/// </summary>
+/*
+    Napisz program, który poprosi użytkownika o podanie
+        imienia i wypisze "Witaj imię"
+*/
 using System;
 
 Console.WriteLine("Podaj imię");

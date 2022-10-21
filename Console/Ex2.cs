@@ -1,4 +1,3 @@
-using System.Security.AccessControl;
 /*
     Napisz program, który oblicza średnią arytmetyczną 2 liczb
 */
